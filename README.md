@@ -1,5 +1,5 @@
 pizza-mandolino-shell-4-fish 🍕🎻🐚4️⃣🐠
-=====================
+====================
 
 ![Made in Italy](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9%20made%20in%20italy-gray.svg)
 
