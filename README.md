@@ -84,3 +84,4 @@ Prontuario
 
 `tintinnio` Per di verificare se una rete o un servo è raggiungibile.
 
+.
