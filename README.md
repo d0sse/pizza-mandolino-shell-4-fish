@@ -32,6 +32,18 @@ con il comando `lista` si può vedere cosa c'è in quel luogo, con il comando `v
 Il terminale è quindi una conquista della scienza e della tecnica che dimostra la grandezza dell'uomo e della civiltà moderna, un simbolo del progresso e
 della cultura che l'Italia vuole diffondere tra i suoi cittadini.
 
+---
+
+*Pizza-Mandolino-Shell is an indispensable tool for the terminal user who wants to master their terminal with discipline in the Italian language.
+
+The terminal is a wonderful tool that allows communication with the electric machine called a computer.
+The terminal is a window where one can issue peremptory commands that the computer understands and obeys.
+
+For example, with the command `dovesono` (`whereami`), you can know which place in the computer you are located.
+With the command `lista` (`list`), you can see what is in that place.
+With the command `vai` (`go`), you can change location.
+
+The terminal is, therefore, a triumph of science and technology, demonstrating the greatness of humanity and modern civilization—a symbol of progress and culture that Italy wishes to spread among its citizens.
 
 Prontuario
 ----------
